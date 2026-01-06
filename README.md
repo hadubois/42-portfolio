@@ -1,41 +1,9 @@
-![42](https://github.com/user-attachments/assets/a7c38090-93a5-4308-bf5f-73dd24c31bcc)
+![42](/assets/42_banner.png)
 
-# 42_zero_to_hero
-
-Legend:
->> current project
-
-
-This repository gonna show you how from nothing the 42 school transform you in real programmer.
-
-### Cercle 0
-
-Libft
-
----
-
-### Cercle 1
-
-Born2beroot
-
-ft_printf
-
-get_next_line
-
----
-
-### Cercle 2
-
-push_swap
-
-so_long
-
-pipex
-
----
-
-### Cercle 3
-
-Philosophers
-
->> minishell
+# About
+This repository I'm gonna expose my 42 journey and what I have learnt. For that I will describe my major projects. If you want more informations about a projet you can check it out. </br></br>
+I split my projects in 4 differents categories.
+- 42 common-core
+- 42 advanced
+- 42 electronics
+- personnal projects
