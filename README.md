@@ -22,5 +22,5 @@ For this speciality I done a piscine to learn all the embedded fundamentals in C
 | project name | description |
 | ------------ | ----------- |
 | [embedded piscine](https://github.com/hadubois/42-embedded) | In this piscine I learn how to flash, read a data-sheet, use ISP, I2C, UART protocols and use different memories.
-| [electronic design](https://github.com/hadubois/42-core-electronics) | By creating my own schematic library, then my own footprint library I design a kicad PCB from scratch and prepare documentation.
-| [electronic prototyping](https://github.com/hadubois/42-electronics) | Throught Holes and SMD have no secrets to me now!
+| [electronic design](https://github.com/hadubois/42-electronics/tree/main/desing) | By creating my own schematic library, then my own footprint library I design a kicad PCB from scratch and prepare documentation.
+| [electronic prototyping](https://github.com/hadubois/42-electronics/tree/main/prototyping) | Throught Holes and SMD have no secrets to me now!
