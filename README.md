@@ -3,10 +3,10 @@
 # About
 This repository I'm gonna expose my 42 journey and what I have learnt. For that I will describe my major projects. If you want more informations about a projet you can check it out. </br></br>
 I split my projects in 2 differents categories.
-- [42 common core](# Common-core)
-- [42 electronics](# Electronics)
+- [42 common core](#common-core)
+- [42 electronics](#electronics)
 
-# Common-core
+# Common-core {common-core}
 The common core is the 42 basic cursus. It allow us to know all the fundamentals an to be a real developper. we start by creating our own library in C and finish by creating an online multiplayer game platform in several languages.
 
 | project name | description |
